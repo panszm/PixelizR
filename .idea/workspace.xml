@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae42b0d2-d8a5-46bd-bcf6-0702c20e9754" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VyQ1QtTMp8rjK0RgeKEm0bstUx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wrswi\PycharmProjects\AnimatoR\main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wrswi\PycharmProjects\AnimatoR\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Main2">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AnimatoR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AnimatoR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/Main2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main2" />
+        <item itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae42b0d2-d8a5-46bd-bcf6-0702c20e9754" name="Default Changelist" comment="" />
+      <created>1578222642329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578222642329</updated>
+      <workItem from="1578222660920" duration="952000" />
+      <workItem from="1578226293771" duration="15131000" />
+      <workItem from="1578510316287" duration="607000" />
+      <workItem from="1578737619364" duration="803000" />
+      <workItem from="1578924833567" duration="1648000" />
+      <workItem from="1579609064547" duration="573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578222998461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1578222998461" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578926820004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1578926820004" />
+    <state width="1877" height="320" key="GridCell.Tab.0.bottom" timestamp="1579609639067">
+      <screen x="1920" y="-575" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1578927135934" />
+    <state width="1877" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-575.1920.1160@1920.-575.1920.1160" timestamp="1579609639067" />
+    <state width="1877" height="320" key="GridCell.Tab.0.center" timestamp="1579609639067">
+      <screen x="1920" y="-575" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1578927135933" />
+    <state width="1877" height="320" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-575.1920.1160@1920.-575.1920.1160" timestamp="1579609639067" />
+    <state width="1877" height="320" key="GridCell.Tab.0.left" timestamp="1579609639066">
+      <screen x="1920" y="-575" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1578927135933" />
+    <state width="1877" height="320" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-575.1920.1160@1920.-575.1920.1160" timestamp="1579609639066" />
+    <state width="1877" height="320" key="GridCell.Tab.0.right" timestamp="1579609639067">
+      <screen x="1920" y="-575" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1578927135934" />
+    <state width="1877" height="320" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-575.1920.1160@1920.-575.1920.1160" timestamp="1579609639067" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1578236552951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1578236552951" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579609072774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1579609072774" />
+    <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1578238533548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="118" width="607" height="804" key="find.popup/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1578238533548" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1578236377637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1578236377637" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AnimatoR$Main.coverage" NAME="Main Coverage Results" MODIFIED="1578258082576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/AnimatoR$Main2.coverage" NAME="Main2 Coverage Results" MODIFIED="1579609526382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+  </component>
+</project>
