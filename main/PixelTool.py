@@ -1,6 +1,6 @@
 from PIL import Image
 
-def pixelArt(imagePath, outputPath, precision, lightFactor, contrastFactor, blendFactor):
+def repaint(imagePath='main/picture.jpg', outputPath='main/newCopy.jpg', precision=5, lightFactor=0, contrastFactor=0, blendFactor=10):
     image = Image.open(imagePath)
     width, height = image.size
     for x in range(0,width,precision):
@@ -27,10 +27,3 @@ def pixelArt(imagePath, outputPath, precision, lightFactor, contrastFactor, blen
 
             image.paste(averagePixel,(x,y))
             image.save(outputPath)
-
-precision = 8
-lightFactor = 0
-contrastFactor = 0
-blendFactor = 10;
-
-pixelArt('apple.jpg', 'newCopy.jpg' , precision,lightFactor,contrastFactor,blendFactor)
