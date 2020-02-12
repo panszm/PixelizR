@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae42b0d2-d8a5-46bd-bcf6-0702c20e9754" name="Default Changelist" comment="" />
+    <list default="true" id="ae42b0d2-d8a5-46bd-bcf6-0702c20e9754" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main/karol.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/kuwait.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AnimatoR.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AnimatoR.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/Test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -13,6 +24,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VyQ1QtTMp8rjK0RgeKEm0bstUx" />
   <component name="ProjectViewState">
@@ -28,13 +42,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wrswi\PycharmProjects\PixelizR\main" />
       <recent name="C:\Users\wrswi\PycharmProjects\AnimatoR\main" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wrswi\PycharmProjects\PixelizR\main" />
       <recent name="C:\Users\wrswi\PycharmProjects\AnimatoR\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Main2">
+  <component name="RunManager" selected="Python.Test">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AnimatoR" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,8 +95,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="RGBTool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AnimatoR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/RGBTool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AnimatoR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.RGBTool" />
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.Main2" />
         <item itemvalue="Python.Main" />
       </list>
@@ -114,6 +177,10 @@
       <workItem from="1578737619364" duration="803000" />
       <workItem from="1578924833567" duration="1648000" />
       <workItem from="1579609064547" duration="573000" />
+      <workItem from="1579688424100" duration="762000" />
+      <workItem from="1579689201086" duration="719000" />
+      <workItem from="1579689931516" duration="5704000" />
+      <workItem from="1579896836467" duration="475000" />
     </task>
     <servers />
   </component>
@@ -121,10 +188,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578222998461">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579693413865">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1578222998461" />
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1579693413865" />
     <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578926820004">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -149,14 +216,14 @@
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1578927135934" />
     <state width="1877" height="320" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-575.1920.1160@1920.-575.1920.1160" timestamp="1579609639067" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1578236552951">
+    <state x="461" y="163" key="SettingsEditor" timestamp="1579693651381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1578236552951" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579609072774">
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1579693651381" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579896840737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1579609072774" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-575.1920.1160@0.0.1920.1040" timestamp="1579896840737" />
     <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1578238533548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

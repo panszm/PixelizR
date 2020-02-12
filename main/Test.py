@@ -1,4 +1,5 @@
-import RGBTool
-import PixelTool
+from main import PixelTool
 
-PixelTool.repaint(imagePath='main/kuwait.jpg');
+PixelTool.repaint(imagePath='karol.jpg',outputPath="newCopy.jpg");
+
+exit(0)
